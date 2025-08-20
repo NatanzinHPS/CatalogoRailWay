@@ -38,8 +38,4 @@ Swagger UI: `/swagger-ui.html`
 
 ## Deploy
 
-URL da Aplicação: `https://catalogorailway-production.up.railway.app/`
-
-## Deploy
-
-Hospedado no Railway com deploy automático.
+Projeto configurado para deploy no Railway.
